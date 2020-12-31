@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Xpender</string>
+    <string name="add_transaction">Record your expenditure</string>
+
+    <!--List of selected default personal budget categories (https://localfirstbank.com/article/budgeting-101-personal-budget-categories/)-->
+    <string name="cat_housing">Housing</string>
+    <string name="cat_transportation">Transportation</string>
+    <string name="cat_food">Food and Beverage</string>
+    <string name="cat_utilities">Utilities</string>
+    <string name="cat_healthcare">Health Care</string>
+    <string name="cat_insurance">Insurance</string>
+    <string name="cat_households">Household Supplies</string>
+    <string name="cat_personal">Personal</string>
+    <string name="cat_savings">Savings</string>
+    <string name="cat_others">Others</string>
+
+</resources>
